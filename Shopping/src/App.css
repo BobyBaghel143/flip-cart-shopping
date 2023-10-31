@@ -1,0 +1,8 @@
+:root {
+  /* text-align: center; */
+}
+
+.app-wrapper {
+  display: flex;
+  flex-direction: column;
+}

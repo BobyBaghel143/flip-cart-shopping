@@ -1,0 +1,37 @@
+
+
+.order-details-product{
+    margin-top: 20px;
+}
+
+.order-details-product-img{
+    flex-basis: 25%;
+}
+
+.order-details-product-img img{
+    max-width: 100%;
+}
+
+.order-details-product-data{
+    flex-basis: 50%;
+    padding: 0  1rem;
+    font-size: 1rem;
+    justify-content: center;
+}
+
+.order-details-product-data > div:first-child{
+    font-style: 1.2rem;
+    margin-bottom: 10px;
+}
+
+.order-details-product-actions{
+    flex-basis: 25%;
+}
+
+.order-details-product-remove{
+    margin-top: 1rem;
+}
+
+.order-details-product-quantity > div:first-child{
+    margin-bottom: .5rem;
+}

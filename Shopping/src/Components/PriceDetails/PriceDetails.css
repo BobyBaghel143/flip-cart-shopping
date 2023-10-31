@@ -1,0 +1,35 @@
+.price-details{
+    flex-basis: 30%;
+    margin-left: 2rem;
+    gap: 2rem;
+    align-self: flex-start;
+    position: sticky;
+    top: 10px;
+}
+.price-details-box{
+    box-shadow: 0px 1px 5px var(--mid-gray);
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+.continue-shopping-btn{
+    letter-spacing: .1rem;
+    margin: 1rem;
+    box-shadow: 0px 1px 5px var(--mid-gray);
+}
+
+.continue-shopping-btn:hover{
+    box-shadow: none;
+    transition: .5s;
+}
+
+.Checkout-btn{
+    box-shadow: 0px 1px 5px var(--mid-gray);
+    text-decoration: none;
+}
+
+.Checkout-btn:hover{
+    box-shadow: none;
+    transition: .5s;
+}

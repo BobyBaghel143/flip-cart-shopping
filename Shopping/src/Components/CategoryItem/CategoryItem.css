@@ -1,0 +1,24 @@
+.category-item {
+    border: 1px solid var(--pale-blue);
+    background-color: var(--jean-blue);
+    width: 180px;
+    padding: 30px 40px;
+    border-radius: 10px;
+    text-align: center;
+    min-height: 100px;
+    min-width: 135px;
+    box-shadow: 4px 4px 2px var(--mid-gray);
+  }
+  
+  .category-item a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.1rem;
+    letter-spacing: 2px;
+    font-weight: bold;
+  }
+  
+  .category-item:hover{
+      box-shadow: 0px 0px;
+      transition: box-shadow 0.2s linear 0s;
+  }

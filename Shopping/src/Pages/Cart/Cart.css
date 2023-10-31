@@ -1,0 +1,27 @@
+.components{
+    /* display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 2rem; */
+}
+
+.cart-title{
+    margin-bottom: 2rem;
+}
+
+
+.order-details{
+    flex-basis: 60%;
+    box-shadow: 0px 1px 5px var(--mid-gray);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+
+}
+
+.order-details-title{
+    font-size: 1.5rem;
+    padding-bottom: 20px;
+    border-bottom: 1px solid var(--light-gray);
+}

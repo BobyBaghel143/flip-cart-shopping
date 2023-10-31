@@ -1,0 +1,22 @@
+1. Vite + React  
+   (Project set) =>
+   npm create vite@latest
+   name Shopping
+   react
+   javaScript
+   cd Shopping
+   npm install
+   npm run dev
+
+2.    
+
+
+
+
+
+
+
+
+  Backend deployed on render
+      for setup environment          
+      .env file  ke [key, value] pair ko same hi copy karna hoga;

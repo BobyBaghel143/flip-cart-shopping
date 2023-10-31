@@ -1,0 +1,20 @@
+.container {
+  margin-top: 2rem;
+  padding: 0;
+}
+
+.product-list-title {
+  font-size: 3rem;
+  margin: 40px 0;
+  font-weight: normal;
+}
+
+.product-list-box {
+  flex-basis: 80%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product-item:nth-child(3n) {
+  margin-right: 0;
+}
